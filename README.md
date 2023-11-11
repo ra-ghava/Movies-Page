@@ -20,4 +20,16 @@ Design Template
 
 
 
+
 Movies Page - Specifications 
+
+
+
+
+
+
+
+
+
+
+https://github.com/ra-ghava/Movies-Page/assets/146189602/cd10f009-cfba-4eb4-b207-e9d2c8a73188
